@@ -1,0 +1,5 @@
+// Słowo kluczowe this w JavaScript odnosi się do obiektu,
+// w którym jest używane w danym momencie.
+// Jest to przydatne w programowaniu obiektowym,
+// ponieważ umożliwia odwoływanie się do właściwości i metod obiektu,
+// w którym aktualnie pracujesz.
